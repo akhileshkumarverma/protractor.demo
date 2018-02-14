@@ -1,0 +1,33 @@
+{
+  "name": "prot.framework",
+  "version": "1.0.0",
+  "description": "framewrok",
+  "main": "test.conf.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "protractor-jasmine2-html-reporter": "^0.0.7"
+  },
+  "devDependencies": {
+    "jasmine-spec-reporter": "^4.0.0",
+    "protractor-jasmine2-html-reporter": "0.0.7"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafalf/prot.framework.git"
+  },
+  "keywords": [
+    "protractor",
+    "POM"
+  ],
+  "author": "rfusik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafalf/prot.framework/issues"
+  },
+  "homepage": "https://github.com/rafalf/prot.framework#readme"
+}

@@ -1,0 +1,104 @@
+{
+  "apps": {
+    "angulartest": {
+      "baseUrl": "https://www.angulartest.com",
+      "params": {
+        "emails": {
+          "memberEmail": "atester1@angularqa.com",
+          "memberFbEmail": "Angul.ang3@gmail.com",
+          "memberGBEmail": "atester55@angularqa.com",
+          "nonprofitEmail": "ac93@angularqa.com",
+          "nonprofitEmailAc1": "atestchar1@angularqa.com",
+          "companyEmail": "acompany1@angularqa.com",
+          "companyGBEmail": "automcomp2@angularqa.com",
+          "companyEmailWhitelist": "automcomp3@angularqa.com",
+          "companyMatchEmail": "acompany10@angularqa.com",
+          "password": "password",
+          "passwordFb": "Webadmin"
+        },
+        "widgetUrl": "https://www.angulartest.com/widget/donate",
+        "embedUrl": "https://rafalf.github.io/Angul/donate/?testUrl=angulartest.com&entityType=company&entityID=acompany8",
+        "widgetUrlAutoTest": "https://www.angulartest.com/company/autotest/givingwidget",
+        "widgetUrlSingleWhitelist": "https://www.angulartest.com/company/autotestwhitelistsingle/givingwidget",
+        "widgetUrlAutoMultiWhitelist": "https://www.angulartest.com/company/autotestwhitelistmulti/givingwidget",
+        "widgetUrlMatch": "https://www.angulartest.com/company/acompany9/givingwidget",
+        "widgetUrlMatchWhitelist": "https://www.angulartest.com/company/acompany10/givingwidget",
+        "widgetUrlMatchStopped": "https://www.angulartest.com/company/acompany8/givingwidget",
+        "widgetUrlFundraiserGB": "https://www.angulartest.com/widget/donate?931",
+        "widgetUrlLockedGiftCardWhitelist": "https://www.angulartest.com/company/acompany14/givingwidget",
+        "widgetUrlLockedGiftCard": "https://www.angulartest.com/company/acompany13/givingwidget",
+        "widgetUrlUnLockedGiftCard": "https://www.angulartest.com/company/acompany15/givingwidget",
+        "widgetUrlUnLockedGiftCardWhitelist": "https://www.angulartest.com/company/acompany16/givingwidget",
+        "widgetUrlFacebook": "",
+        "nonprofitName": "[automation.nonprofit.test]",
+        "nonprofitNameAc1": "atestchar1",
+        "fundraiserName": "[automation.fundraiser.test]",
+        "fundraiserTargetName": "[automation.targetfundraiser.test]",
+        "fundraiserWorldName": "[automation.worldfundraiser.test]",
+        "fundraiserWorldGBName": "[automation.ukfundraiser.test]",
+        "companyNameWhitelist": "autotestwhitelistmulti",
+        "companyNameSingleWhitelist": "autotestwhitelistsingle",
+        "memberName55": "Peter Bloggs",
+        "memberFbName": "Angul Autoang3",
+        "fundraiserMemberName": "[automation.member.fundraiser.test]",
+        "fundraiserMemberTargetName": "[automation.member.targetfundraiser.test]",
+        "db": {
+          "user": "User",
+          "password": "Password",
+          "server": "127.0.0.0",
+          "port": "49306"
+        }
+      }
+    },
+    "angulartestcopy": {
+      "baseUrl": "https://www.angulartestcopy.com",
+      "params": {
+        "emails": {
+          "memberEmail": "atester1@angularqa.com",
+          "memberFbEmail": "Angul.automation@gmail.com",
+          "memberGBEmail": "atester55@angularqa.com",
+          "nonprofitEmail": "ac93@angularqa.com",
+          "nonprofitEmailAc1": "atestchar1@angularqa.com",
+          "companyEmail": "acompany1@angularqa.com",
+          "companyGBEmail": "automcomp2@angularqa.com",
+          "companyEmailWhitelist": "automcomp3@angularqa.com",
+          "companyMatchEmail": "acompany10@angularqa.com",
+          "password": "password",
+          "passwordFb": "Webadmin"
+        },
+        "widgetUrl": "https://www.angulartestcopy.com/widget/donate",
+        "embedUrl": "https://rafalf.github.io/Angul/donate/?testUrl=angulartestcopy.com&entityType=company&entityID=acompany8",
+        "widgetUrlAutoTest": "https://www.angulartestcopy.com/company/autotest/givingwidget",
+        "widgetUrlSingleWhitelist": "https://www.angulartestcopy.com/company/autotestwhitelistsingle/givingwidget",
+        "widgetUrlAutoMultiWhitelist": "https://www.angulartestcopy.com/company/autotestwhitelistmulti/givingwidget",
+        "widgetUrlMatch": "https://www.angulartestcopy.com/company/acompany9/givingwidget",
+        "widgetUrlMatchWhitelist": "https://www.angulartestcopy.com/company/acompany10/givingwidget",
+        "widgetUrlMatchStopped": "https://www.angulartestcopy.com/company/acompany8/givingwidget",
+        "widgetUrlFundraiserGB": "https://www.angulartestcopy.com/widget/donate?931",
+        "widgetUrlLockedGiftCardWhitelist": "https://www.angulartestcopy.com/company/acompany14/givingwidget",
+        "widgetUrlLockedGiftCard": "https://www.angulartestcopy.com/company/acompany13/givingwidget",
+        "widgetUrlUnLockedGiftCard": "https://www.angulartestcopy.com/company/acompany15/givingwidget",
+        "widgetUrlUnLockedGiftCardWhitelist": "https://www.angulartestcopy.com/company/acompany16/givingwidget",
+        "widgetUrlFacebook": "https://www.facebook.com/angtest-test-page-1644053035633584/app/243947582327818/",
+        "nonprofitName": "[automation.nonprofit.test]",
+        "nonprofitNameAc1": "atestchar1",
+        "fundraiserName": "[automation.fundraiser.test]",
+        "fundraiserTargetName": "[automation.targetfundraiser.test]",
+        "fundraiserWorldName": "[automation.worldfundraiser.test]",
+        "fundraiserWorldGBName": "[automation.ukfundraiser.test]",
+        "companyNameSingleWhitelist": "autotestwhitelistsingle",
+        "companyNameWhitelist": "autotestwhitelistmulti",
+        "memberName55": "Peter Bloggs",
+        "memberFbName": "Angul Autoangtest",
+        "fundraiserMemberName": "[automation.member.fundraiser.test]",
+        "fundraiserMemberTargetName": "[automation.member.targetfundraiser.test]",
+        "db": {
+          "user": "User",
+          "password": "Password",
+          "server": "127.0.0.0",
+          "port": "49406"
+        }
+      }
+    }
+  }
+}

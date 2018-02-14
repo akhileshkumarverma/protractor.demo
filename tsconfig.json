@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "inlineSourceMap": true,
+    "declaration": false,
+    "noImplicitAny": false,
+    "allowJs": true
+  },
+  "exclude": [
+    "node_modules",
+    "asyncAwait",
+    "plugins.ts"
+  ],
+  "include": [
+    "exc/*",
+    "tests/*",
+    "po/*",
+    "db/*"
+  ]
+}
